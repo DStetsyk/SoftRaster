@@ -1,0 +1,5 @@
+bin
+Resources
+.vs
+**.exe
+**.dll
